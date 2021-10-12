@@ -1,0 +1,131 @@
+PCM1.ERI.VarDecs.ArmLogic_Arm
+PCM1.ERI.VarDecs.Engine_StateARM
+PCM1.ERI.VarDecs.FaultDisableN2O
+PCM1.ERI.VarDecs.MAF_N2O1
+PCM1.ERI.VarDecs.MAF_N2O2
+PCM1.ERI.VarDecs.MAF_N2O3
+PCM1.ERI.VarDecs.MAF_N2O4
+PCM1.ERI.VarDecs.N20_Bottle1_Press_Gain
+PCM1.ERI.VarDecs.N20_Bottle2_Press_Gain
+PCM1.ERI.VarDecs.N20_Bottle3_Press_Gain
+PCM1.ERI.VarDecs.N20_Bottle4_Press_Gain
+PCM1.ERI.VarDecs.N20_RevLimit_Disable
+PCM1.ERI.VarDecs.N2O_Bottle_Pressure1ADC
+PCM1.ERI.VarDecs.N2O_Bottle_Pressure2ADC
+PCM1.ERI.VarDecs.N2O_Bottle_Pressure3ADC
+PCM1.ERI.VarDecs.N2O_Bottle_Pressure4ADC
+PCM1.ERI.VarDecs.N2O_Bottle1_Press_Raw
+PCM1.ERI.VarDecs.N2O_Bottle1_Reinstate
+PCM1.ERI.VarDecs.N2O_Bottle1PressureAllowed
+PCM1.ERI.VarDecs.N2O_Bottle2_Press_Raw
+PCM1.ERI.VarDecs.N2O_Bottle2_Reinstate
+PCM1.ERI.VarDecs.N2O_Bottle2PressureAllowed
+PCM1.ERI.VarDecs.N2O_Bottle3_Press_Raw
+PCM1.ERI.VarDecs.N2O_Bottle3_Reinstate
+PCM1.ERI.VarDecs.N2O_Bottle3PressureAllowed
+PCM1.ERI.VarDecs.N2O_Bottle4_Press_Raw
+PCM1.ERI.VarDecs.N2O_Bottle4_Reinstate
+PCM1.ERI.VarDecs.N2O_Bottle4PressureAllowed
+PCM1.ERI.VarDecs.N2O_Sol1
+PCM1.ERI.VarDecs.N2O_Sol2
+PCM1.ERI.VarDecs.N2O_Sol3
+PCM1.ERI.VarDecs.N2O_Sol4
+PCM1.ERI.VarDecs.N2O_Stage1_Sparkoffset
+PCM1.ERI.VarDecs.N2O_Stage1_time_active
+PCM1.ERI.VarDecs.N2O_Stage1Switch
+PCM1.ERI.VarDecs.N2O_Stage1Switch_Raw
+PCM1.ERI.VarDecs.N2O_Stage2_Sparkoffset
+PCM1.ERI.VarDecs.N2O_Stage2_time_active
+PCM1.ERI.VarDecs.N2O_Stage2Switch
+PCM1.ERI.VarDecs.N2O_Stage2Switch_Raw
+PCM1.ERI.VarDecs.N2O_Stage3_Sparkoffset
+PCM1.ERI.VarDecs.N2O_Stage3_time_active
+PCM1.ERI.VarDecs.N2O_Stage3Switch
+PCM1.ERI.VarDecs.N2O_Stage3Switch_Raw
+PCM1.ERI.VarDecs.N2O_Stage4_Sparkoffset
+PCM1.ERI.VarDecs.N2O_Stage4_time_active
+PCM1.ERI.VarDecs.N2O_Stage4Switch
+PCM1.ERI.VarDecs.N2O_Stage4Switch_Raw
+PCM1.ERI.VarDecs.N2O_Total_Flow
+PCM1.ERI.VarDecs.N2O1_Flow
+PCM1.ERI.VarDecs.N2O1_FlowFactor
+PCM1.ERI.VarDecs.N2O1Flow_AirEq
+PCM1.ERI.VarDecs.N2O2_Flow
+PCM1.ERI.VarDecs.N2O2_FlowFactor
+PCM1.ERI.VarDecs.N2O2Flow_AirEq
+PCM1.ERI.VarDecs.N2O3_Flow
+PCM1.ERI.VarDecs.N2O3_FlowFactor
+PCM1.ERI.VarDecs.N2O3Flow_AirEq
+PCM1.ERI.VarDecs.N2O4_Flow
+PCM1.ERI.VarDecs.N2O4_FlowFactor
+PCM1.ERI.VarDecs.N2O4Flow_AirEq
+PCM1.ERI.VarDecs.N2OBottle1_SparkOffset
+PCM1.ERI.VarDecs.N2OBottle1MaxPressure_Allowed
+PCM1.ERI.VarDecs.N2OBottle2_SparkOffset
+PCM1.ERI.VarDecs.N2OBottle2MaxPressure_Allowed
+PCM1.ERI.VarDecs.N2OBottle3_SparkOffset
+PCM1.ERI.VarDecs.N2OBottle3MaxPressure_Allowed
+PCM1.ERI.VarDecs.N2OBottle4_SparkOffset
+PCM1.ERI.VarDecs.N2OBottle4MaxPressure_Allowed
+PCM1.ERI.VarDecs.N2OProg1_Duty
+PCM1.ERI.VarDecs.N2OProg2_Duty
+PCM1.ERI.VarDecs.N2OProg3_Duty
+PCM1.ERI.VarDecs.N2OProg4_Duty
+PCM1.ERI.VarDecs.N2OStage_ActiveValue
+PCM1.ERI.VarDecs.N2OTimeSinceTrigger
+PCM1.ERI.VarDecs.Nitrous_LoadReinstate
+PCM1.ERI.VarDecs.Nitrous_Maxload_Allowed
+PCM1.ERI.VarDecs.Nitrous_MaxO2
+PCM1.ERI.VarDecs.Nitrous_MaxRPM
+PCM1.ERI.VarDecs.Nitrous_MaxVSS
+PCM1.ERI.VarDecs.Nitrous_Minimum_RPM
+PCM1.ERI.VarDecs.Nitrous_Minimum_VSS
+PCM1.ERI.VarDecs.Nitrous_O2_HighCutOff_Timer
+PCM1.ERI.VarDecs.Nitrous_O2Allowed
+PCM1.ERI.VarDecs.Nitrous_O2HighCutOffTimeMet
+PCM1.ERI.VarDecs.Nitrous_O2Reinstate
+PCM1.P6.Nitrous_Pressure1::600 1300
+PCM1.P6.Nitrous_Pressure1::600 1300
+PCM1.P6.Nitrous_Pressure2::600 1300
+PCM1.P6.Nitrous_Pressure2::600 1300
+PCM1.P6.Nitrous_Pressure3::600 1300
+PCM1.P6.Nitrous_Pressure3::600 1300
+PCM1.P6.Nitrous_Pressure4::600 1300
+PCM1.P6.Nitrous_Pressure4::600 1300
+PCM1.ERI.VarDecs.Nitrous_RPMreinstate
+PCM1.ERI.VarDecs.Nitrous_Stage1_JetCalc
+PCM1.ERI.VarDecs.Nitrous_Stage1_RPMAllowed
+PCM1.ERI.VarDecs.Nitrous_Stage1_VSSAllowed
+PCM1.ERI.VarDecs.Nitrous_Stage1_Wet
+PCM1.ERI.VarDecs.Nitrous_Stage2_JetCalc
+PCM1.ERI.VarDecs.Nitrous_Stage2_Wet
+PCM1.ERI.VarDecs.Nitrous_Stage3_JetCalc
+PCM1.ERI.VarDecs.Nitrous_Stage3_Wet
+PCM1.ERI.VarDecs.Nitrous_Stage4_JetCalc
+PCM1.ERI.VarDecs.Nitrous_Stage4_Wet
+PCM1.ERI.VarDecs.Nitrous_VSSReinstate
+PCM1.ERI.VarDecs.Nitrous1_Enabled
+PCM1.ERI.VarDecs.Nitrous1_LoadAllowed
+PCM1.ERI.VarDecs.Nitrous2_Enabled
+PCM1.ERI.VarDecs.Nitrous3_Enabled
+PCM1.ERI.VarDecs.Nitrous4_Enabled
+PCM1.ERI.VarDecs.NitrousEQ
+PCM1.P19.Stage1_Armed::0 2
+PCM1.ERI.VarDecs.Stage1_DesEQR
+PCM1.P4.Stage1_Engaged::0 2
+PCM1.ERI.VarDecs.Stage1_NitrousBottleRefSelect
+PCM1.P19.Stage2_Armed::0 2
+PCM1.ERI.VarDecs.Stage2_DesEQR
+PCM1.P4.Stage2_Engaged::0 2
+PCM1.ERI.VarDecs.Stage2_NitrousBottleRefSelect
+PCM1.P19.Stage3_Armed::0 2
+PCM1.ERI.VarDecs.Stage3_DesEQR
+PCM1.P4.Stage3_Engaged::0 2
+PCM1.ERI.VarDecs.Stage3_NitrousBottleRefSelect
+PCM1.P19.Stage4_Armed::0 2
+PCM1.ERI.VarDecs.Stage4_DesEQR
+PCM1.P4.Stage4_Engaged::0 2
+PCM1.ERI.VarDecs.Stage4_NitrousBottleRefSelect
+PCM1.ERI.VarDecs.StageLimit_DisableN2O
+PCM1.ERI.VarDecs.TPS_Allowed
+PCM1.ERI.VarDecs.TwoStepLimit_DisableN2O

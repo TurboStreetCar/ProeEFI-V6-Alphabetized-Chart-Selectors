@@ -1,0 +1,47 @@
+PCM1.ERI.VarDecs.Absolute_CnkCamPhase::0 720
+PCM1.ERI.VarDecs.Absolute_CnkCamPhase_Status::0 10
+PCM1.ERI.VarDecs.ActiveSource
+PCM1.ERI.VarDecs.BgndStackMinBytesFree
+PCM1.ERI.VarDecs.Cam_Tooth_Num
+PCM1.ERI.VarDecs.CamEncoder_FLTCount
+PCM1.ERI.VarDecs.CamEncoder_Status
+PCM1.ERI.VarDecs.CamEncoderFaultCnt
+PCM1.ERI.VarDecs.CamError
+PCM1.ERI.VarDecs.CnkCamPhaseErrorCounter
+PCM1.ERI.VarDecs.CnkCamPhaseFault
+PCM1.ERI.VarDecs.CnkEncoder_Status
+PCM1.ERI.VarDecs.CnkEncoderFaultCnt
+PCM1.ERI.VarDecs.CnkError
+PCM1.ERI.VarDecs.CnkLossFault
+PCM1.ERI.VarDecs.CnkSyncFault
+PCM1.ERI.VarDecs.CPUIdlePcent
+PCM1.ERI.VarDecs.CPUTime_AppISR
+PCM1.ERI.VarDecs.CPUTime_Bgnd
+PCM1.ERI.VarDecs.CPUTime_CAN
+PCM1.ERI.VarDecs.CPUTime_FgndAngle
+PCM1.ERI.VarDecs.CPUTime_FgndTime
+PCM1.ERI.VarDecs.CPUTime_MIOS
+PCM1.ERI.VarDecs.CPUTime_Serial
+PCM1.ERI.VarDecs.CPUTime_TimerISR
+PCM1.ERI.VarDecs.CPUTime_TPU
+PCM1.ERI.VarDecs.CrankAirflowSetPt
+PCM1.ERI.VarDecs.CrankSOI
+PCM1.ERI.VarDecs.CrankSpark
+PCM1.ERI.VarDecs.CRNK_EncoderFLTCount
+PCM1.ERI.VarDecs.EncAngle
+PCM1.P10.EncoderFaultCount::0 20
+PCM1.ERI.VarDecs.EncoderState
+PCM1.ERI.VarDecs.EngineAccel
+PCM1.ERI.VarDecs.FgndAngleStackMinBytesFree
+PCM1.ERI.VarDecs.FgndTimeStackMinBytesFree
+PCM1.ERI.VarDecs.IdleStackMinBytesFree
+PCM1.ERI.VarDecs.InterruptStackMinBytesFree
+PCM1.ERI.VarDecs.OSErrorCnt
+PCM1.ERI.VarDecs.PeakHeapBytesUsed
+PCM1.ERI.VarDecs.Phase_Status1
+PCM1.ERI.VarDecs.Phase_Status2
+PCM1.ERI.VarDecs.Rel_Phase1
+PCM1.ERI.VarDecs.Rel_Phase2
+PCM1.ERI.VarDecs.Start_Request::0 2
+PCM1.ERI.VarDecs.SWISRCurrQueueSize
+PCM1.ERI.VarDecs.Tooth1

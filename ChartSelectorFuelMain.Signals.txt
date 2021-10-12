@@ -1,0 +1,139 @@
+PCM1.ERI.VarDecs.Actual_PrimaryFlowRate::0 3000
+PCM1.ERI.VarDecs.Actual_SecondaryFlowRate::0 3000
+PCM1.ERI.VarDecs.AFR_FromAFR_Table::0 30
+PCM1.ERI.VarDecs.AFR_PreAccel::0 30
+PCM1.ERI.VarDecs.AFR_Target_Error
+PCM1.ERI.VarDecs.AirFuel_RatioTable
+PCM1.ERI.VarDecs.Burnout_DesEQR::0 2
+PCM1.ERI.VarDecs.CCs_minute_Fuel_Flow::0 5000
+PCM1.ERI.VarDecs.Cyl10AirflowMult
+PCM1.ERI.VarDecs.Cyl11AirflowMult
+PCM1.ERI.VarDecs.Cyl12AirflowMult
+PCM1.ERI.VarDecs.Cyl1AirflowMult
+PCM1.ERI.VarDecs.Cyl2AirflowMult
+PCM1.ERI.VarDecs.Cyl3AirflowMult
+PCM1.ERI.VarDecs.Cyl4AirflowMult
+PCM1.ERI.VarDecs.Cyl5AirflowMult
+PCM1.ERI.VarDecs.Cyl6AirflowMult
+PCM1.ERI.VarDecs.Cyl7AirflowMult
+PCM1.ERI.VarDecs.Cyl8AirflowMult
+PCM1.ERI.VarDecs.Cyl9AirflowMult
+PCM1.ERI.VarDecs.DecelFuelCut
+PCM1.ERI.VarDecs.DecelFuelCut
+PCM1.P9.Delta_TPS::-10 10
+PCM1.ERI.VarDecs.DeltaEngineRateAccel_Fuel::0 4
+PCM1.ERI.VarDecs.DeltaMAP_Fuel::0 4
+PCM1.ERI.VarDecs.DeltaTPS_Delta_Map_Mult
+PCM1.ERI.VarDecs.DeltaTPS_Fuel::0 4
+PCM1.ERI.VarDecs.Des_Equivelance_PreAccel::0 2
+PCM1.ERI.VarDecs.DesEQLimiterSelected
+PCM1.P20.Engine_HP_Potential::0 1000
+PCM1.ERI.VarDecs.ET_Potential::0 30
+PCM1.ERI.VarDecs.Ethanol_Percent::0 100
+PCM1.ERI.VarDecs.Ethanol_Percent::0 100
+*PCM1.ERI.VarDecs.Ethanol_Temp
+PCM1.P25.Final_O2_Bank1::0 2
+PCM1.P25.Final_O2_Bank2::0 2
+PCM1.ERI.VarDecs.Final_VE::0 2
+PCM1.ERI.VarDecs.FlexFuel_Stoich::0 30
+PCM1.ERI.VarDecs.FlexFuelAccelBlend
+PCM1.ERI.VarDecs.FlexFuelAccelBlendTbl
+PCM1.ERI.VarDecs.FlexFuelADC::0 1023
+PCM1.ERI.VarDecs.FlexFuelCrankBlend
+PCM1.ERI.VarDecs.FlexFuelCrankBlendTbl
+PCM1.ERI.VarDecs.FlexFuelDefault
+PCM1.ERI.VarDecs.FlexFuelTbl
+PCM1.P20.Fuel_Economy::0 50
+PCM1.ERI.VarDecs.FuelAdapt_Error
+PCM1.ERI.VarDecs.FuelAdaptEnabled
+PCM1.ERI.VarDecs.GlobalBaseFuelRate
+PCM1.ERI.VarDecs.Grams_Second_Fuel_Flow::0 10000
+PCM1.ERI.VarDecs.Injector01_SOI
+PCM1.ERI.VarDecs.Injector02_SOI
+PCM1.ERI.VarDecs.Injector03_SOI
+PCM1.ERI.VarDecs.Injector04_SOI
+PCM1.ERI.VarDecs.Injector05_SOI
+PCM1.ERI.VarDecs.Injector06_SOI
+PCM1.ERI.VarDecs.Injector07_SOI
+PCM1.ERI.VarDecs.Injector08_SOI
+PCM1.ERI.VarDecs.Injector09_SOI
+PCM1.ERI.VarDecs.Injector10_SOI
+PCM1.ERI.VarDecs.Injector11_SOI
+PCM1.ERI.VarDecs.Injector12_SOI
+PCM1.P14.InjectorPW1::0 20000
+PCM1.P16.InjectorPW10::0 20000
+PCM1.P16.InjectorPW11::0 20000
+PCM1.P16.InjectorPW12::0 20000
+PCM1.P14.InjectorPW2::0 20000
+PCM1.P14.InjectorPW3::0 20000
+PCM1.P14.InjectorPW4::0 20000
+PCM1.P15.InjectorPW5::0 20000
+PCM1.P15.InjectorPW6::0 20000
+PCM1.P15.InjectorPW7::0 20000
+PCM1.P15.InjectorPW8::0 20000
+PCM1.P16.InjectorPW9::0 20000
+PCM1.ERI.VarDecs.Lbs_hour_Fuel_Flow::0 250
+PCM1.ERI.VarDecs.LimiterDesEQ::0 2
+PCM1.ERI.VarDecs.MAF_Modelled
+PCM1.ERI.VarDecs.MAF_Source_Selected
+PCM1.ERI.VarDecs.MAF_VEAdaptGain
+PCM1.P13.MassAirFlow::0 1000
+PCM1.P13.MassAirFlow::0 1000
+PCM1.ERI.VarDecs.MPH_Potential::0 300
+PCM1.ERI.VarDecs.N2O_Des_Equivelance::0 2
+PCM1.ERI.VarDecs.Normalized_VolEff_Error
+PCM1.ERI.VarDecs.O2Control_DTermA::-2 2
+PCM1.ERI.VarDecs.O2Control_DTermB::-2 2
+PCM1.ERI.VarDecs.O2Control_ErrorTermA
+PCM1.ERI.VarDecs.O2Control_ErrorTermB
+PCM1.ERI.VarDecs.O2Control_ITermA::-2 2
+PCM1.ERI.VarDecs.O2Control_ITermB::-2 2
+PCM1.ERI.VarDecs.O2Control_PTermA::-2 2
+PCM1.ERI.VarDecs.O2Control_PTermB::-2 2
+PCM1.P9.O2Fuel_MultA::0 2
+PCM1.P9.O2Fuel_MultB::0 2
+PCM1.ERI.VarDecs.PerCylBaseFuelRate
+PCM1.ERI.VarDecs.Power_Enrichment
+PCM1.P23.Primary_Fuel_Pressure::0 150
+PCM1.P23.Primary_Fuel_Pressure::0 150
+PCM1.ERI.VarDecs.Primary_FuelPressure_Difference
+PCM1.ERI.VarDecs.Primary_InjBatteryOffset
+PCM1.ERI.VarDecs.Primary_Injector_Duty::0 100
+PCM1.ERI.VarDecs.Primary_Injector_Gain
+PCM1.ERI.VarDecs.Primary_InjEPW
+PCM1.ERI.VarDecs.Primary_InjPeakDuration
+PCM1.ERI.VarDecs.Primary_InjSOI
+PCM1.ERI.VarDecs.Primary_MaxAllowableMPW
+PCM1.P19.Primary_Stoich::0 20
+PCM1.P12.PrimaryCompensatedInjectorFlow::0 2200
+PCM1.ERI.VarDecs.PrimarySOI
+PCM1.P23.Secondary_Fuel_Pressure::0 150
+PCM1.P23.Secondary_Fuel_Pressure::0 150
+PCM1.ERI.VarDecs.Secondary_FuelPress_DeltaComp
+PCM1.ERI.VarDecs.Secondary_FuelPressure_Difference
+PCM1.ERI.VarDecs.Secondary_InjBatteryOffset
+PCM1.ERI.VarDecs.Secondary_Injector_Duty::0 100
+PCM1.ERI.VarDecs.Secondary_Injector_Gain
+PCM1.ERI.VarDecs.Secondary_InjectorMap
+PCM1.ERI.VarDecs.Secondary_InjEPW
+PCM1.ERI.VarDecs.Secondary_InjPeakDuration
+PCM1.ERI.VarDecs.Secondary_InjSOI
+PCM1.ERI.VarDecs.Secondary_InjTurnOff
+PCM1.ERI.VarDecs.Secondary_InjTurnOn_dPComp
+PCM1.ERI.VarDecs.Secondary_MaxAllowableMPW
+PCM1.ERI.VarDecs.Secondary_Stoich_AFR::0 30
+PCM1.P12.SecondaryCompensatedInjectorFlow::0 2200
+PCM1.ERI.VarDecs.SecondarySOI
+PCM1.ERI.VarDecs.Stage_DesEQR::0 2
+PCM1.ERI.VarDecs.Staged_Injection_Split::0 100
+PCM1.P5.Target_O2::0 2
+PCM1.P4.TimeSinceRun::0 500
+PCM1.ERI.VarDecs.Total_AccelFuel::0 4
+PCM1.ERI.VarDecs.TPS_FuelTrim::0 2
+PCM1.ERI.VarDecs.TwoStep_DesEQR::0 2
+PCM1.ERI.VarDecs.VE::0 2
+PCM1.ERI.VarDecs.VEAdapting
+PCM1.ERI.VarDecs.VETempCorr::0 2
+PCM1.ERI.VarDecs.WarmUp_Enrichment::0 3
+PCM1.ERI.VarDecs.WarmUpO2AdaptEnabled
+PCM1.ERI.VarDecs.WarmUpTransFuelMult

@@ -1,0 +1,54 @@
+PCM1.P26.Accel_TC_Loss::0 5
+PCM1.P26.Accelerometer_Falling::0 5
+PCM1.ERI.VarDecs.Accelerometer_RateofChange::-1000 1000
+PCM1.P26.Accelerometer_Rising::0 5
+PCM1.ERI.VarDecs.AccelerometerFalling::0 5
+PCM1.ERI.VarDecs.AccelerometerRising::0 5
+PCM1.ERI.VarDecs.AccelerometerTractionLoss::0 5
+PCM1.ERI.VarDecs.Diff_WheelSpeedAllowed
+PCM1.ERI.VarDecs.DifferentialWheelSpeed
+PCM1.ERI.VarDecs.DifferentialWheelSpeed_Error
+PCM1.ERI.VarDecs.DifferentialWheelSpeedErrorRTD
+PCM1.ERI.VarDecs.DifferentialWheelSpeedExceededRTD
+PCM1.ERI.VarDecs.DiffWheelSpeedThrottle_Trim
+PCM1.P3.DrivenWheelSpeed::0 255
+PCM1.ERI.VarDecs.DriveShaft_RPMAllowed
+PCM1.ERI.VarDecs.DriveShaft_RPMExceededRTD
+PCM1.ERI.VarDecs.DriveShaftError
+PCM1.ERI.VarDecs.DriveShaftErrorRTD
+PCM1.ERI.VarDecs.DriveShaftRPMAllowed
+PCM1.ERI.VarDecs.Engine_HP_Potential::0 2000
+PCM1.ERI.VarDecs.EngineAccel::-1000 1000
+PCM1.ERI.VarDecs.EngineAccelRising::0 5
+PCM1.P24.LaunchApproach_Spark_Rtd::-50 0
+PCM1.P22.LaunchControl_ApproachBegin_RPM::0 10000
+PCM1.ERI.VarDecs.Left_Front_WheelSpeed::0 255
+PCM1.ERI.VarDecs.Left_Rear_WheelSpeed::0 255
+PCM1.ERI.VarDecs.MT_MeasuredGear
+PCM1.P3.NonDrivenWheelSpeed::0 255
+PCM1.ERI.VarDecs.PowerLimit_DTerm::-100 100
+PCM1.ERI.VarDecs.PowerLimit_Error::-500 500
+PCM1.ERI.VarDecs.PowerLimit_ITerm::-100 100
+PCM1.ERI.VarDecs.PowerLimit_PIDOut::-100 100
+PCM1.ERI.VarDecs.PowerLimit_PTerm::-100 100
+PCM1.ERI.VarDecs.PowerLimitSetpoint
+PCM1.ERI.RPM_Rate_of_Change
+PCM1.P26.TC_AccelRising::0 5
+PCM1.P26.TC_Loss_Rate::-1000 1000
+PCM1.P3.TCS_Spark_RTD::-50 50
+PCM1.ERI.VarDecs.TCTransGearRatio
+PCM1.ERI.VarDecs.Torque_FtLbs::-100 1500
+PCM1.ERI.VarDecs.Track_Mode
+PCM1.ERI.VarDecs.TractionControl_Selected
+PCM1.ERI.VarDecs.TractionControl_Switch
+PCM1.ERI.VarDecs.TractionControl_Switch_Override_new
+PCM1.ERI.VarDecs.TractionControl_Switch_Override_ovr
+PCM1.ERI.VarDecs.TractionControl_SwitchADC
+PCM1.P5.TractionControlActive::0 2
+PCM1.P19.TractionControlEnabled::0 2
+PCM1.P126.X_Axis_Degrees::-64 64
+PCM1.P127.X_Axis_G::-3 3
+PCM1.P26.Y_Accel_ROC::-10 10
+PCM1.P126.Y_Axis_Degrees::-64 64
+PCM1.P127.Y_Axis_G::-3 3
+PCM1.P127.Z_Axis_G::-3 3

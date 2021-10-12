@@ -1,0 +1,67 @@
+PCM1.ERI.VarDecs.AntiLagDGainErrorMult
+PCM1.ERI.VarDecs.AntiLagDTerm::0 2
+PCM1.ERI.VarDecs.AntiLagError::-200 200
+PCM1.ERI.VarDecs.AntiLagIGainErrorMult
+PCM1.ERI.VarDecs.AntiLagITerm::0 2
+PCM1.ERI.VarDecs.AntiLagPGainErrorMult
+PCM1.ERI.VarDecs.AntiLagPTerm::0 2
+PCM1.ERI.VarDecs.AntiLagSparkAdjustment
+PCM1.ERI.VarDecs.AntiLagSpeedErrorIdx
+PCM1.ERI.VarDecs.AntiLagSpeedErrorIn
+PCM1.ERI.VarDecs.BaseSpring_Pressure::100 500
+PCM1.ERI.VarDecs.BurnoutTargetBoost::100 500
+PCM1.P26.CO2_TargetBoost::100 500
+PCM1.ERI.VarDecs.HighOctane_TargetBoost_ByTime::100 500
+PCM1.ERI.VarDecs.HighOctane_TargetBoost_ByVSS::100 500
+PCM1.P19.IBoostPosition::0 5
+PCM1.ERI.VarDecs.I_Boost_Stage_for_HighOctane::0 5
+PCM1.ERI.VarDecs.I_BoostADC
+PCM1.ERI.VarDecs.I_BoostADC::0 1023
+PCM1.ERI.VarDecs.LowOctane_TargetBoost_ByTime::100 500
+PCM1.ERI.VarDecs.LowOctane_TargetBoost_ByVSS::100 500
+PCM1.ERI.VarDecs.Scramble_Boost::0 50
+PCM1.ERI.VarDecs.Sequential_1_Allowed
+PCM1.ERI.VarDecs.Sequential_1_Duty::0 100
+PCM1.ERI.VarDecs.Sequential_1_DutyCycle::0 100
+PCM1.ERI.VarDecs.Sequential_1_FrequencyOut
+PCM1.ERI.VarDecs.Sequential_1_OffTransition
+PCM1.ERI.VarDecs.Sequential_1_OnTransition
+PCM1.ERI.VarDecs.Sequential_2_Allowed
+PCM1.ERI.VarDecs.Sequential_2_Duty::0 100
+PCM1.ERI.VarDecs.Sequential_2_DutyCycle::0 100
+PCM1.ERI.VarDecs.Sequential_2_FrequencyOut
+PCM1.ERI.VarDecs.Sequential_2_OffTransition
+PCM1.ERI.VarDecs.Sequential_2_OnTransition
+PCM1.ERI.VarDecs.Sequential_3_Allowed
+PCM1.ERI.VarDecs.Sequential_3_Duty::0 100
+PCM1.ERI.VarDecs.Sequential_3_DutyCycle::0 100
+PCM1.ERI.VarDecs.Sequential_3_FrequencyOut
+PCM1.ERI.VarDecs.Sequential_3_OffTransition
+PCM1.ERI.VarDecs.Sequential_3_OnTransition
+PCM1.ERI.VarDecs.Sequential_4_Allowed
+PCM1.ERI.VarDecs.Sequential_4_Duty::0 100
+PCM1.ERI.VarDecs.Sequential_4_DutyCycle::0 100
+PCM1.ERI.VarDecs.Sequential_4_FrequencyOut
+PCM1.ERI.VarDecs.Sequential_4_OffTransition
+PCM1.ERI.VarDecs.Sequential_4_OnTransition
+PCM1.ERI.VarDecs.StageTargetBoost::100 500
+PCM1.ERI.VarDecs.Throttle_Boost_Mod
+PCM1.ERI.VarDecs.TwoStepTargetBoost::100 500
+PCM1.P3.WasteGate_SetPoint::100 500
+PCM1.ERI.VarDecs.WasteGate_DMult::0 2
+PCM1.ERI.VarDecs.WasteGate_DTerm::0 2
+PCM1.ERI.VarDecs.WasteGate_DTerm_Decrease::0 2
+PCM1.ERI.VarDecs.WasteGate_DutyCycle::0 100
+PCM1.ERI.VarDecs.WasteGate_Error
+PCM1.ERI.VarDecs.WasteGate_Error_Decrease::-50 50
+PCM1.ERI.VarDecs.WasteGate_FrequencyOut
+PCM1.ERI.VarDecs.WasteGate_IMult::0 2
+PCM1.ERI.VarDecs.WasteGate_ITerm::0 2
+PCM1.ERI.VarDecs.WasteGate_ITerm_Decrease::0 2
+PCM1.ERI.VarDecs.WasteGate_PMult::0 2
+PCM1.ERI.VarDecs.WasteGate_PTerm::0 2
+PCM1.ERI.VarDecs.WasteGate_PTerm_Decrease::0 2
+PCM1.ERI.VarDecs.WasteGateDecrease_DutyCycle::0 100
+PCM1.ERI.VarDecs.WG_Duty_AdaptEnabled
+PCM1.ERI.VarDecs.WGDuty_RPM_Offset
+PCM1.ERI.VarDecs.WGDuty_to_BoostBase

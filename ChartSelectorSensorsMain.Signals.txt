@@ -1,0 +1,203 @@
+PCM1.ERI.VarDecs.Absolute_CnkCamPhase::0 720
+PCM1.ERI.VarDecs.Absolute_CnkCamPhase_Status::0 10
+PCM1.ERI.VarDecs.AC_Pressure::0 3500
+PCM1.ERI.VarDecs.AC_PressureADC
+PCM1.ERI.VarDecs.ActiveSource
+PCM1.ERI.VarDecs.AFR_Target_Error::-25 25
+PCM1.ERI.VarDecs.APCPort::0 2000
+PCM1.ERI.VarDecs.Baro_Pressure::0 120
+PCM1.ERI.VarDecs.Baro_PressureADC
+PCM1.ERI.VarDecs.Brake_PressureADC
+PCM1.ERI.VarDecs.Brake_Switch::0 2
+PCM1.P20.BrakePressure::0 2000
+PCM1.ERI.VarDecs.BrakePressure_CAN::0 2000
+PCM1.ERI.VarDecs.BurnoutLimit_Raw
+PCM1.ERI.VarDecs.Cam_Tooth_Num
+PCM1.ERI.VarDecs.CamEncoder_FLTCount
+PCM1.ERI.VarDecs.CamEncoder_Status
+PCM1.ERI.VarDecs.CamEncoderFaultCnt
+PCM1.ERI.VarDecs.CamError
+PCM1.ERI.VarDecs.CAN_WideBand_DesEQ_1::0 2
+PCM1.ERI.VarDecs.CAN_WideBand_DesEQ_2::0 2
+PCM1.ERI.VarDecs.CnkCamPhaseErrorCounter
+PCM1.ERI.VarDecs.CnkCamPhaseFault
+PCM1.ERI.VarDecs.CnkEncoder_Status
+PCM1.ERI.VarDecs.CnkEncoderFaultCnt
+PCM1.ERI.VarDecs.CnkError
+PCM1.ERI.VarDecs.CnkLossFault
+PCM1.ERI.VarDecs.CnkSyncFault
+PCM1.P19.Coolant_Temp::0 250
+PCM1.P40.CPU_IdlePercent
+PCM1.ERI.VarDecs.CRNK_EncoderFLTCount
+PCM1.P5.Current_RPM_Limit::0 12000
+PCM1.P3.DrivenWheelSpeed::0 255
+PCM1.P5.Drivers_Information_Light::0 2
+PCM1.ERI.VarDecs.ECTADC
+PCM1.ERI.VarDecs.ECTADC::0 1030
+PCM1.P13.EGT::0 2000
+PCM1.ERI.VarDecs.EGT_1ADC
+PCM1.ERI.VarDecs.EGT_2ADC
+PCM1.P148.EGT1::0 2000
+PCM1.P13.EGT2::0 2000
+PCM1.P148.EGT2::0 2000
+PCM1.P148.EGT3::0 2000
+PCM1.P148.EGT4::0 2000
+PCM1.P149.EGT5::0 2000
+PCM1.P149.EGT6::0 2000
+PCM1.P149.EGT7::0 2000
+PCM1.P149.EGT8::0 2000
+PCM1.ERI.VarDecs.EncAngle
+PCM1.ERI.VarDecs.EncoderState
+PCM1.P20.Engine_HP_Potential::0 1000
+PCM1.ERI.VarDecs.EngineAccel::-500 500
+PCM1.ERI.VarDecs.EngineAccel_Spark::-20 20
+PCM1.ERI.VarDecs.EngineBayTemp_Degrees::0 250
+PCM1.ERI.VarDecs.EngineBayTempADC
+PCM1.ERI.VarDecs.EngineState::0 5
+PCM1.P22.EngineTorque::-200 1000
+PCM1.ERI.VarDecs.EngineTorque::-200 1000
+*PCM1.ERI.VarDecs.Ethanol_Temp
+PCM1.ERI.VarDecs.Exhaust_BP_ADC
+PCM1.ERI.VarDecs.Exhaust_BP2_ADC
+PCM1.P23.ExhaustBP::0 1034
+PCM1.P23.ExhaustBP2::0 1034
+PCM1.P1.Final_AFR1::0 30
+PCM1.P1.Final_AFR2::0 30
+PCM1.ERI.VarDecs.Final_Lambda1::0 2
+PCM1.ERI.VarDecs.Final_Lambda2::0 2
+PCM1.P25.Final_O2_Bank1::0 2
+PCM1.P25.Final_O2_Bank2::0 2
+PCM1.ERI.VarDecs.ForcedShutDownTimer::0 500
+PCM1.ERI.VarDecs.Front_Drive_TQ
+PCM1.P20.Fuel_Economy::0 50
+PCM1.P25.Fuel_Level1::0 100
+PCM1.P25.Fuel_Level2::0 5100
+PCM1.ERI.VarDecs.FuelLevel_CAN
+PCM1.ERI.VarDecs.FuelTank_Pressure::0 200
+PCM1.ERI.VarDecs.FuelTank_PressureADC
+PCM1.ERI.VarDecs.GearAchieved_CAN
+PCM1.ERI.VarDecs.GearPosition_CAN
+PCM1.P19.High_Low_Switch::0 2
+PCM1.ERI.VarDecs.IATADC
+PCM1.ERI.VarDecs.IgnitionCutTQ_CAN
+PCM1.P19.Inlet_Air_Temp::0 250
+PCM1.P22.Inlet_Pressure::0 500
+PCM1.ERI.VarDecs.Inlet_PressureADC
+PCM1.ERI.VarDecs.InputShaftRPM_CAN
+PCM1.P8.Knock_CYL1_RTD::-50 0
+PCM1.P8.Knock_CYL2_RTD::-50 0
+PCM1.P8.Knock_CYL3_RTD::-50 0
+PCM1.P8.Knock_CYL4_RTD::-50 0
+PCM1.P8.Knock_CYL5_RTD::-50 0
+PCM1.P8.Knock_CYL6_RTD::-50 0
+PCM1.P8.Knock_CYL7_RTD::-50 0
+PCM1.P8.Knock_CYL8_RTD::-50 0
+PCM1.P9.Launch_Time::0 50
+PCM1.ERI.VarDecs.Left_Front_WheelSpeed
+PCM1.ERI.VarDecs.Left_Front_WheelSpeed::0 255
+PCM1.ERI.VarDecs.Left_Rear_WheelSpeed
+PCM1.ERI.VarDecs.Left_Rear_WheelSpeed::0 255
+PCM1.ERI.VarDecs.LF_TirePress_CAN
+PCM1.ERI.VarDecs.LR_TirePress_CAN
+PCM1.ERI.VarDecs.Maf_Sensor::0 1050
+PCM1.ERI.VarDecs.Maf_Volts2ADC
+PCM1.ERI.VarDecs.Maf_VoltsADC
+PCM1.ERI.VarDecs.MAFADC::0 1050
+PCM1.P25.Manifold_Surface_Temp::0 250
+PCM1.P1.MAP::0 700
+PCM1.ERI.VarDecs.MAP_CAN::0 500
+PCM1.ERI.VarDecs.MAPADC
+PCM1.ERI.VarDecs.MassAir_FromSensor::0 1000
+PCM1.P13.MassAirFlow::0 1000
+PCM1.ERI.VarDecs.MassFromSD_Grams_Sec::0 1000
+PCM1.ERI.VarDecs.MSTADC
+PCM1.P6.Nitrous_Pressure1::600 1300
+PCM1.P6.Nitrous_Pressure2::600 1300
+PCM1.P6.Nitrous_Pressure3::600 1300
+PCM1.P6.Nitrous_Pressure4::600 1300
+PCM1.P3.NonDrivenWheelSpeed::0 255
+PCM1.P9.O2Fuel_MultA::0 2
+PCM1.P9.O2Fuel_MultB::0 2
+PCM1.ERI.VarDecs.OdometerReport
+PCM1.P24.Oil_Pressure::0 150
+PCM1.ERI.VarDecs.OilMetering_PumpPosition::0 100
+PCM1.ERI.VarDecs.OilPressureADC
+PCM1.P10.OilTemp::0 300
+PCM1.ERI.VarDecs.OilTempADC
+PCM1.ERI.VarDecs.OMP_ADC::0 1023
+PCM1.ERI.VarDecs.Phase_Status1
+PCM1.ERI.VarDecs.Phase_Status2
+PCM1.ERI.VarDecs.Position::0 255
+PCM1.P13.Pressure_Ratio::0 7
+PCM1.P23.Primary_Fuel_Pressure::0 150
+PCM1.ERI.VarDecs.Primary_FuelPressureADC
+PCM1.ERI.VarDecs.Primary_Injector_Duty::0 100
+PCM1.P12.PrimaryCompensatedInjectorFlow::0 2200
+PCM1.P24.Radiator_Pressure::0 150
+PCM1.ERI.VarDecs.Radiator_PressureADC
+PCM1.ERI.VarDecs.Rel_Phase1
+PCM1.ERI.VarDecs.Rel_Phase2
+PCM1.ERI.VarDecs.RF_TirePress_CAN
+PCM1.ERI.VarDecs.Right_Front_WheelSpeed::0 255
+PCM1.ERI.VarDecs.RIght_Rear_WheelSpeed
+PCM1.ERI.VarDecs.Right_Rear_WheelSpeed::0 255
+PCM1.ERI.VarDecs.RightFront_WheelSpeed
+PCM1.ERI.VarDecs.Rolling_Antilag_Raw
+PCM1.P9.RPM::0 14000
+PCM1.ERI.VarDecs.RR_TirePress_CAN
+PCM1.P23.Secondary_Fuel_Pressure::0 150
+PCM1.ERI.VarDecs.Secondary_FuelPressureADC
+PCM1.P12.SecondaryCompensatedInjectorFlow::0 2200
+PCM1.P1.Spark_Advance_Log::-20 70
+PCM1.P19.Stage1_Armed::0 2
+PCM1.P4.Stage1_Engaged::0 2
+PCM1.P19.Stage2_Armed::0 2
+PCM1.P4.Stage2_Engaged::0 2
+PCM1.P19.Stage3_Armed::0 2
+PCM1.P4.Stage3_Engaged::0 2
+PCM1.P19.Stage4_Armed::0 2
+PCM1.P4.Stage4_Engaged::0 2
+PCM1.ERI.VarDecs.StageRevLimit_Raw
+PCM1.ERI.VarDecs.Start_Request::0 2
+PCM1.ERI.VarDecs.Steering_Angle_CAN
+PCM1.ERI.VarDecs.Steering_Speed_CAN
+PCM1.ERI.VarDecs.StrainGaugeADC
+PCM1.ERI.VarDecs.StrainGaugeCut
+PCM1.ERI.VarDecs.SysVolt::0 20
+PCM1.ERI.VarDecs.TailShaftSpeed_CAN
+PCM1.P5.Target_O2::0 2
+PCM1.ERI.VarDecs.TargetGear_CAN
+PCM1.P3.TCS_Spark_RTD::-50 50
+PCM1.ERI.VarDecs.ThrottleTQ_Limit_CAN
+PCM1.ERI.VarDecs.TimeSinceKeyOn::0 500
+PCM1.P4.TimeSinceRun::0 500
+PCM1.ERI.VarDecs.TimeSinceStall::0 500
+PCM1.ERI.VarDecs.Tooth1
+PCM1.ERI.VarDecs.TorqueReduction_CAN
+PCM1.ERI.VarDecs.TPS1Percent::0 100
+PCM1.ERI.VarDecs.TracSwitchRMode_CAN
+PCM1.ERI.VarDecs.TractionControl_SwitchADC
+PCM1.ERI.VarDecs.Trans_Pump_PressureADC
+PCM1.P4.Transmission_Pressure::0 500
+PCM1.P10.TransTemp::0 300
+PCM1.ERI.VarDecs.TransTemp_CAN
+PCM1.ERI.VarDecs.TransTempADC
+PCM1.P7.TurboSpeed1::0 200000
+PCM1.P7.TurboSpeed2::0 200000
+PCM1.P5.TwoStep_ADC
+PCM1.P5.TwoStep_ADC::0 1023
+PCM1.ERI.VarDecs.UEGO1_AirCalCorrFactor::0 100
+PCM1.ERI.VarDecs.UEGO1_HeaterDutyCycle::0 100
+PCM1.ERI.VarDecs.UEGO1_HeaterVEff::0 100
+PCM1.ERI.VarDecs.UEGO1_Phi::0 100
+PCM1.ERI.VarDecs.UEGO1_Temp_LSU49::0 100
+PCM1.P3.VSS::0 255
+PCM1.ERI.VarDecs.WasteGate_DutyCycle::0 100
+PCM1.P3.WasteGate_SetPoint::100 500
+PCM1.P24.WasteGatePressure::0 150
+PCM1.ERI.VarDecs.WasteGatePressure_ADC
+PCM1.P126.X_Axis_Degrees::-64 64
+PCM1.P127.X_Axis_G::-3 3
+PCM1.P126.Y_Axis_Degrees::-64 64
+PCM1.P127.Y_Axis_G::-3 3
+PCM1.P127.Z_Axis_G::-3 3

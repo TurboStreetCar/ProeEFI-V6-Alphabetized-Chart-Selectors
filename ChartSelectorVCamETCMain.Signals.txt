@@ -1,0 +1,153 @@
+PCM1.ERI.VarDecs.APP1Adapt_Hi::0 1035
+PCM1.ERI.VarDecs.APP1Adapt_Low::0 1035
+PCM1.ERI.VarDecs.APP1ADC
+PCM1.ERI.VarDecs.APP1Percent::0 100
+PCM1.ERI.VarDecs.APP2Adapt_Hi::0 1035
+PCM1.ERI.VarDecs.APP2Adapt_Low::0 1035
+PCM1.ERI.VarDecs.APP2ADC
+PCM1.ERI.VarDecs.APP2Percent::0 100
+PCM1.ERI.VarDecs.BaseCamToothAngle::0 5
+PCM1.ERI.VarDecs.Cam1PhaseFinal::0 720
+PCM1.ERI.VarDecs.Cam1PhaseRaw::0 720
+PCM1.P21.Cam1PhaseRelative::-10 75
+PCM1.ERI.VarDecs.Cam1RelPhase::0 720
+PCM1.ERI.VarDecs.Cam1TeethRaw::0 720
+PCM1.ERI.VarDecs.Cam1ToothNumber::0 10
+PCM1.ERI.VarDecs.Cam2PhaseFinal::0 720
+PCM1.ERI.VarDecs.Cam2PhaseRaw::0 720
+PCM1.P21.Cam2PhaseRelative::-10 75
+PCM1.ERI.VarDecs.Cam2RelPhase::0 720
+PCM1.ERI.VarDecs.Cam2TeethRaw::0 720
+PCM1.ERI.VarDecs.Cam2ToothNumber::0 10
+PCM1.ERI.VarDecs.Cam3PhaseFinal::0 720
+PCM1.ERI.VarDecs.Cam3RelPhase::0 720
+PCM1.ERI.VarDecs.Cam3TeethRaw::0 720
+PCM1.ERI.VarDecs.Cam3ToothNumber::0 10
+PCM1.ERI.VarDecs.Cam4PhaseFinal::0 720
+PCM1.ERI.VarDecs.Cam4RelPhase::0 720
+PCM1.ERI.VarDecs.Cam4TeethRaw::0 720
+PCM1.ERI.VarDecs.Cam4ToothNumber::0 10
+PCM1.ERI.VarDecs.CamPaseVector::0 5
+PCM1.ERI.VarDecs.CamToothAngle::0 5
+PCM1.ERI.VarDecs.Cruise_Light::0 2
+PCM1.ERI.VarDecs.Cruise_OnOff::0 20
+PCM1.ERI.VarDecs.Cruise_ResumeAccel::0 20
+PCM1.ERI.VarDecs.Cruise_SetDecel::0 2
+PCM1.ERI.VarDecs.CruiseClutchDisable::0 2
+PCM1.ERI.VarDecs.CruiseDTerm::0 100
+PCM1.ERI.VarDecs.CruiseError::-25 25
+PCM1.ERI.VarDecs.CruiseFaultDisable::0 2
+PCM1.ERI.VarDecs.CruiseIdleEnable::0 2
+PCM1.ERI.VarDecs.CruiseITerm::0 100
+PCM1.ERI.VarDecs.CruiseLatch_PedalITerm::0 100
+PCM1.ERI.VarDecs.CruisePauseResumeEnable::0 2
+PCM1.ERI.VarDecs.CruisePID_Mode::0 10
+PCM1.ERI.VarDecs.CruisePIDOutput::-100 100
+PCM1.ERI.VarDecs.CruisePTerm::0 100
+PCM1.ERI.VarDecs.CruiseSetpoint::0 125
+PCM1.ERI.VarDecs.CruiseSetpoint_Mode::0 10
+PCM1.ERI.VarDecs.EncoderAngle::0 5
+PCM1.ERI.VarDecs.EncoderTDCOffsetFinal::0 5
+PCM1.ERI.VarDecs.ETC_Current
+PCM1.ERI.VarDecs.ETC_DutyCycle::-100 100
+PCM1.ERI.VarDecs.ETC_ECUPState
+PCM1.ERI.VarDecs.ETC_IGainMult
+PCM1.ERI.VarDecs.ETC_PGainMult
+PCM1.P26.ETC_Request_Final
+PCM1.ERI.VarDecs.ETC_Request_fromCruise
+PCM1.ERI.VarDecs.ETC_Setpoint::0 100
+PCM1.ERI.VarDecs.ETC_ShutdownSetpointMode
+PCM1.ERI.VarDecs.ETC_ShutDownTimer
+PCM1.ERI.VarDecs.ETC_VoltageComp
+PCM1.ERI.VarDecs.ETC2DampTerm
+PCM1.ERI.VarDecs.ETC2DTerm::-25 25
+PCM1.ERI.VarDecs.ETC2Error::-25 25
+PCM1.ERI.VarDecs.ETC2ITerm::-25 25
+PCM1.ERI.VarDecs.ETC2Out::-100 100
+PCM1.ERI.VarDecs.ETC2PTerm::-25 25
+PCM1.ERI.VarDecs.ETCDamperSwtichState
+PCM1.ERI.VarDecs.ETCDamperTPS
+PCM1.ERI.VarDecs.ETCDamperTPSThresh
+PCM1.ERI.VarDecs.ETCDampTerm
+PCM1.ERI.VarDecs.ETCDCOffset
+PCM1.ERI.VarDecs.ETCDTerm::-25 25
+PCM1.P11.ETCDutyCycle::-100 100
+PCM1.ERI.VarDecs.ETCError::-25 25
+PCM1.P11.ETCIterm::-20 20
+PCM1.ERI.VarDecs.ETCOut::-100 100
+PCM1.ERI.VarDecs.ETCPTerm::-25 25
+PCM1.ERI.VarDecs.ETCReqFallRate
+PCM1.ERI.VarDecs.ETCReqFilterConst
+PCM1.ERI.VarDecs.ETCReqRiseRate
+PCM1.ERI.VarDecs.ETCRequestDirection
+PCM1.ERI.VarDecs.ETCRequestFinal
+PCM1.ERI.VarDecs.ETCStallStateShutdown
+PCM1.ERI.VarDecs.FGND360Count::0 5
+PCM1.ERI.VarDecs.FGND360ToothSequence::0 5
+PCM1.ERI.VarDecs.FilteredETCRequest
+PCM1.ERI.VarDecs.FlexCamToothNum::0 5
+PCM1.ERI.VarDecs.FlexInputCaptureCount::0 5
+PCM1.ERI.VarDecs.MaxETCSetPtLimit
+PCM1.ERI.VarDecs.Phase_Status1::0 5
+PCM1.ERI.VarDecs.Phase_Status2::0 5
+PCM1.ERI.VarDecs.Phase_Status3::0 5
+PCM1.ERI.VarDecs.Phase_Status4::0 5
+PCM1.ERI.VarDecs.PhaseCondition_Switch::0 5
+PCM1.ERI.VarDecs.PowerActual ::0 1500
+PCM1.ERI.VarDecs.PowerLimit1 ::0 1000
+PCM1.ERI.VarDecs.PowerLimit2 ::0 1000
+PCM1.ERI.VarDecs.PowerLimit3 ::0 1000
+PCM1.ERI.VarDecs.PowerLimit4 ::0 1000
+PCM1.ERI.VarDecs.PowerLimit5 ::0 1000
+PCM1.ERI.VarDecs.PowerLimitETCSetpoint ::0 100
+PCM1.ERI.VarDecs.PowerLimitSetpoint ::0 1000
+PCM1.ERI.VarDecs.PowerLimitState ::0 5
+PCM1.ERI.VarDecs.PowerLimt_DTerm ::-50 50
+PCM1.ERI.VarDecs.PowerLimt_Error ::-50 50
+PCM1.ERI.VarDecs.PowerLimt_ITerm ::-50 50
+PCM1.ERI.VarDecs.PowerLimt_PIDOut ::-50 50
+PCM1.ERI.VarDecs.PowerLimt_PTerm ::-50 50
+PCM1.ERI.VarDecs.RampAddr::-100 100
+PCM1.ERI.VarDecs.RPMCtrlMode::0 2
+PCM1.ERI.VarDecs.SpringTestTime
+PCM1.ERI.VarDecs.Tooth1
+PCM1.ERI.VarDecs.TPS1Adapt_Hi::0 1035
+PCM1.ERI.VarDecs.TPS1Adapt_Low::0 1035
+PCM1.ERI.VarDecs.TPS1ADC::0 1023
+PCM1.ERI.VarDecs.TPS1Percent::0 100
+PCM1.ERI.VarDecs.TPS1Percent::0 100
+PCM1.ERI.VarDecs.TPS2Adapt_Hi::0 1035
+PCM1.ERI.VarDecs.TPS2Adapt_Low::0 1035
+PCM1.ERI.VarDecs.TPS2ADC::0 1023
+PCM1.ERI.VarDecs.TPS2Percent::0 100
+PCM1.ERI.VarDecs.TPS2Percent::0 100
+PCM1.ERI.VarDecs.TPS3Adapt_Hi::0 1035
+PCM1.ERI.VarDecs.TPS3Adapt_Low::0 1035
+PCM1.ERI.VarDecs.TPS3ADC::0 1023
+PCM1.ERI.VarDecs.TPS3Percent::0 100
+PCM1.ERI.VarDecs.TPS4Adapt_Hi::0 1035
+PCM1.ERI.VarDecs.TPS4Adapt_Low::0 1035
+PCM1.ERI.VarDecs.TPS4ADC::0 1023
+PCM1.ERI.VarDecs.TPS4Percent::0 100
+PCM1.ERI.VarDecs.Variable_Cam_Enabled
+PCM1.ERI.VarDecs.VVT1_DutyCycle::0 100
+PCM1.P21.VVT1_Setpoint::-10 75
+PCM1.ERI.VarDecs.VVT1DCCmd::-100 100
+PCM1.ERI.VarDecs.VVT1DTerm::-25 25
+PCM1.ERI.VarDecs.VVT1ErrorTerm::-10 10
+PCM1.ERI.VarDecs.VVT1ITerm::-25 25
+PCM1.ERI.VarDecs.VVT1LearnEnable
+PCM1.ERI.VarDecs.VVT1PhaseRel::-10 70
+PCM1.ERI.VarDecs.VVT1PTerm::-25 25
+PCM1.ERI.VarDecs.VVT1Velocity
+PCM1.ERI.VarDecs.VVT2_DutyCycle::0 100
+PCM1.P21.VVT2_Setpoint::-10 75
+PCM1.ERI.VarDecs.VVT2DCCmd::-100 100
+PCM1.ERI.VarDecs.VVT2DTerm::-25 25
+PCM1.ERI.VarDecs.VVT2ErrorTerm
+PCM1.ERI.VarDecs.VVT2ITerm::-25 25
+PCM1.ERI.VarDecs.VVT2LearnEnable
+PCM1.ERI.VarDecs.VVT2PhaseRel::-10 70
+PCM1.ERI.VarDecs.VVT2PTerm::-25 25
+PCM1.ERI.VarDecs.VVT2Velocity
+PCM1.ERI.VarDecs.VVTErrorGain::0 5

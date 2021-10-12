@@ -1,0 +1,54 @@
+PCM1.ERI.VarDecs.ACIdleAirOffset
+PCM1.ERI.VarDecs.AfterStartOffset
+PCM1.ERI.VarDecs.AirMinGovDGainErrorMult
+PCM1.ERI.VarDecs.AirMinGovDTerm::-25 25
+PCM1.ERI.VarDecs.AirMinGovError
+PCM1.ERI.VarDecs.AirMinGovIGainErrorMult
+PCM1.ERI.VarDecs.AirMinGovITerm::-25 25
+PCM1.ERI.VarDecs.AirMinGovOutput
+PCM1.ERI.VarDecs.AirMinGovPGainErrorMult
+PCM1.ERI.VarDecs.AirMinGovPTerm::-25 25
+PCM1.ERI.VarDecs.AirRequestFinal
+PCM1.ERI.VarDecs.BaseAirflowAdaptEnabled
+PCM1.ERI.VarDecs.BaseAirflowOfst
+PCM1.ERI.VarDecs.BaseAirOffset
+PCM1.ERI.VarDecs.CurrentCount
+PCM1.ERI.VarDecs.CurrentPosition
+PCM1.ERI.VarDecs.IAC_Duty_Cycle::0 100
+PCM1.ERI.VarDecs.IACFollower
+PCM1.ERI.VarDecs.Idle_RPMSetpoint
+PCM1.ERI.VarDecs.IdleAirOffset
+PCM1.ERI.VarDecs.InGearIdleAirOffset
+PCM1.ERI.VarDecs.InGearIdleTargetRPM
+PCM1.ERI.VarDecs.LastPin
+PCM1.ERI.VarDecs.MaxGovDGainErrorMult
+PCM1.ERI.VarDecs.MaxGovIGainErrorMult
+PCM1.ERI.VarDecs.MaxGovInGearSetPt
+PCM1.ERI.VarDecs.MaxGovNtrlSetPt
+PCM1.ERI.VarDecs.MaxGovPGainErrorMult
+PCM1.ERI.VarDecs.MaxGovPreloadITerm
+PCM1.ERI.VarDecs.MinGovReset
+PCM1.ERI.VarDecs.MinGovRPMSetPt
+PCM1.ERI.VarDecs.NeutralIdleAirOffset
+PCM1.ERI.VarDecs.NeutralIdleTargetRPM
+PCM1.P4.OnIdle::0 5
+PCM1.ERI.VarDecs.PowerSteering_IdleOffset
+PCM1.ERI.VarDecs.PowerSteering_SwitchADC
+PCM1.ERI.VarDecs.RPMFalling
+PCM1.ERI.VarDecs.ShutdownComplete
+PCM1.ERI.VarDecs.SpkMinGovDGainErrorMult
+PCM1.ERI.VarDecs.SpkMinGovDTerm
+PCM1.ERI.VarDecs.SpkMinGovError
+PCM1.ERI.VarDecs.SpkMinGovOutput
+PCM1.ERI.VarDecs.SpkMinGovPGainErrorMult
+PCM1.ERI.VarDecs.SpkMinGovPTerm
+PCM1.ERI.VarDecs.Stepper_ECUPState
+PCM1.ERI.VarDecs.StepperH1_DutyCycle::0 100
+PCM1.ERI.VarDecs.StepperH1_new
+PCM1.ERI.VarDecs.StepperH1_ovr
+PCM1.ERI.VarDecs.StepperH2_DutyCycle::0 100
+PCM1.ERI.VarDecs.StepperH2_new
+PCM1.ERI.VarDecs.StepperH2_ovr
+PCM1.ERI.VarDecs.StoredCount
+PCM1.ERI.VarDecs.StoredLastPin
+PCM1.ERI.VarDecs.ThrottleSource

@@ -1,0 +1,137 @@
+PCM1.ERI.VarDecs.APP1Percent::0 100
+PCM1.ERI.VarDecs.APP2Percent::0 100
+PCM1.P19.BatteryVolts::0 30
+PCM1.P20.BrakePressure::0 1000
+PCM1.P10.Calculated_Gear::0 10
+PCM1.P21.Cam1PhaseRelative::-10 75
+PCM1.P21.Cam2PhaseRelative::-10 75
+PCM1.P19.Coolant_Temp::0 250
+PCM1.P22.Cruise_Setpoint::0 255
+PCM1.P5.Current_RPM_Limit::0 10000
+PCM1.P9.Delta_TPS::-10 10
+PCM1.P10.DesiredGear::0 10
+PCM1.P2.Differential_WheelSpeed::0 400
+PCM1.P2.Differential_WheelSpeed_Allowed::0 400
+PCM1.P3.DrivenWheelSpeed::0 255
+PCM1.P5.Drivers_Information_Light::0 2
+PCM1.P12.DriveShaft_RPM::0 10000
+PCM1.P12.DriveShaftRPMAllowed::0 10000
+PCM1.P13.EGT::0 2000
+PCM1.P148.EGT1::0 2000
+PCM1.P13.EGT2::0 2000
+PCM1.P148.EGT2::0 2000
+PCM1.P148.EGT3::0 2000
+PCM1.P148.EGT4::0 2000
+PCM1.P149.EGT5::0 2000
+PCM1.P149.EGT6::0 2000
+PCM1.P149.EGT7::0 2000
+PCM1.P149.EGT8::0 2000
+PCM1.P10.EncoderFaultCount::0 20
+PCM1.P19.EncoderState::0 10
+PCM1.ERI.VarDecs.EngineAccel::-500 500
+PCM1.P20.Engine_HP_Potential::0 1000
+PCM1.P22.EngineTorque::-200 1000
+PCM1.ERI.VarDecs.Ethanol_Percent::0 100
+*PCM1.ERI.VarDecs.Ethanol_Temp
+PCM1.P11.ETCDutyCycle::-100 100
+PCM1.P11.ETCIterm::-20 20
+PCM1.ERI.VarDecs.EngineBayFAN
+PCM1.P23.ExhaustBP::0 150
+PCM1.P23.ExhaustBP2::0 100
+PCM1.ERI.VarDecs.Fan1_Active
+PCM1.ERI.VarDecs.Fan2_Active
+PCM1.ERI.VarDecs.Fan3_Active
+PCM1.P25.Final_O2_Bank1::0 2
+PCM1.P25.Final_O2_Bank2::0 2
+PCM1.P20.Fuel_Economy::0 50
+PCM1.P19.High_Low_Switch::0 2
+PCM1.P19.IBoostPosition::0 10
+PCM1.P14.InjectorPW1::0 20000
+PCM1.P16.InjectorPW10::0 20000
+PCM1.P16.InjectorPW11::0 20000
+PCM1.P16.InjectorPW12::0 20000
+PCM1.P14.InjectorPW2::0 20000
+PCM1.P14.InjectorPW3::0 20000
+PCM1.P14.InjectorPW4::0 20000
+PCM1.P15.InjectorPW5::0 20000
+PCM1.P15.InjectorPW6::0 20000
+PCM1.P15.InjectorPW7::0 20000
+PCM1.P15.InjectorPW8::0 20000
+PCM1.P16.InjectorPW9::0 20000
+PCM1.P19.Inlet_Air_Temp::0 250
+PCM1.P8.Knock_CYL1_RTD::-20 0
+PCM1.P8.Knock_CYL2_RTD::-20 0
+PCM1.P8.Knock_CYL3_RTD::-20 0
+PCM1.P8.Knock_CYL4_RTD::-20 0
+PCM1.P8.Knock_CYL5_RTD::-20 0
+PCM1.P8.Knock_CYL6_RTD::-20 0
+PCM1.P8.Knock_CYL7_RTD::-20 0
+PCM1.P8.Knock_CYL8_RTD::-20 0
+PCM1.P17.KnockEnergyCyl1::50000
+PCM1.P17.KnockEnergyCyl2::50000
+PCM1.P17.KnockEnergyCyl3::50000
+PCM1.P17.KnockEnergyCyl4::50000
+PCM1.P18.KnockEnergyCyl5::50000
+PCM1.P18.KnockEnergyCyl6::50000
+PCM1.P18.KnockEnergyCyl7::50000
+PCM1.P18.KnockEnergyCyl8::50000
+PCM1.P9.Launch_Time::0 15
+PCM1.P25.Manifold_Surface_Temp::0 250
+PCM1.P10.ManualMode::0 2
+PCM1.P1.MAP::0 500
+PCM1.P13.MassAirFlow::0 1000
+PCM1.P10.MIL::0 2
+PCM1.P6.Nitrous_Pressure1::600 1300
+PCM1.P6.Nitrous_Pressure2::600 1300
+PCM1.P6.Nitrous_Pressure3::600 1300
+PCM1.P6.Nitrous_Pressure4::600 1300
+PCM1.P3.NonDrivenWheelSpeed::0 255
+PCM1.P9.O2Fuel_MultA::0 2
+PCM1.P9.O2Fuel_MultB::0 2
+PCM1.P24.Oil_Pressure::0 150
+PCM1.P10.OilTemp::0 300
+PCM1.P4.OnIdle::0 5
+PCM1.P13.Pressure_Ratio::0 5
+PCM1.P23.Primary_Fuel_Pressure::0 150
+PCM1.ERI.VarDecs.Primary_Injector_Duty::0 100
+PCM1.P19.Primary_Stoich::0 20
+PCM1.P12.PrimaryCompensatedInjectorFlow::0 2200
+PCM1.ERI.VarDecs.PulseFan_DutyCycle
+PCM1.P24.Radiator_Pressure::0 150
+PCM1.P11.RevLimiterActive::0 2
+PCM1.P9.RPM::0 10000
+PCM1.P23.Secondary_Fuel_Pressure::0 150
+PCM1.P12.SecondaryCompensatedInjectorFlow::0 2200
+PCM1.ERI.VarDecs.Secondary_Injector_Duty::0 100
+PCM1.P10.ShifterPosition::0 10
+PCM1.P11.SlipPercent::-100 100
+PCM1.P1.Spark_Advance_Log::-20 50
+PCM1.P19.Stage1_Armed::0 2
+PCM1.P4.Stage1_Engaged::0 2
+PCM1.P19.Stage2_Armed::0 2
+PCM1.P4.Stage2_Engaged::0 2
+PCM1.P19.Stage3_Armed::0 2
+PCM1.P4.Stage3_Engaged::0 2
+PCM1.P19.Stage4_Armed::0 2
+PCM1.P4.Stage4_Engaged::0 2
+PCM1.P10.Start_Log::0 2
+PCM1.P5.Target_O2::0 2
+PCM1.P20.TCC:0 2
+PCM1.P3.TCS_SPark_RTD::-50 0
+PCM1.P4.TimeSinceRun::0 500
+PCM1.ERI.VarDecs.TPS1Percent::0 100
+PCM1.ERI.VarDecs.TPS2Percent::0 100
+PCM1.P5.TractionControlActive::0 2
+PCM1.P19.TractionControlEnabled::0 2
+PCM1.P4.Transmission_Pressure::0 500
+PCM1.P10.TransTemp::0 300
+PCM1.P7.TurboSpeed1::0 150000
+PCM1.P7.TurboSpeed2::0 150000
+PCM1.P5.TwoStep_ADC::0 1023
+PCM1.P3.VSS::0 255
+PCM1.P21.VVT1_Setpoint::-10 75
+PCM1.P21.VVT2_Setpoint::-10 75
+PCM1.ERI.VarDecs.WasteGate_DutyCycle::0 100
+PCM1.ERI.VarDecs.WasteGateDecrease_DutyCycleCycle::0 100
+PCM1.P3.WasteGate_SetPoint::0 500
+PCM1.P24.WasteGatePressure::0 150

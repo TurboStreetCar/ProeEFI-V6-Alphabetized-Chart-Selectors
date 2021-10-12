@@ -1,0 +1,28 @@
+PCM1.ERI.VarDecs.BaseSparkEnergy
+PCM1.ERI.VarDecs.CoilDwell
+PCM1.ERI.VarDecs.ECT_SpkOfst
+PCM1.ERI.VarDecs.EngineRateofAccel_Timing::0 30
+PCM1.ERI.VarDecs.EST_TDCEnabled
+PCM1.ERI.VarDecs.FlexFuel_BlendPercent
+PCM1.ERI.VarDecs.FlexFuel_BlendPercentTbl
+PCM1.ERI.VarDecs.IAT_SpkOfst
+PCM1.ERI.VarDecs.Launch_Spark_Retard
+PCM1.P24.LaunchApproach_Spark_Rtd::-50 0
+PCM1.P22.LaunchControl_ApproachBegin_RPM::-50 0
+PCM1.ERI.VarDecs.MaxSparkLimit
+PCM1.ERI.VarDecs.MethSparkTrim
+PCM1.ERI.VarDecs.N2OBottle1_SparkOffset
+PCM1.ERI.VarDecs.N2OBottle2_SparkOffset
+PCM1.ERI.VarDecs.N2OBottle3_SparkOffset
+PCM1.ERI.VarDecs.N2OBottle4_SparkOffset
+PCM1.ERI.VarDecs.ShiftTorqueRetard::-25 0
+PCM1.P1.Spark_Advance_Log::-20 50
+PCM1.ERI.VarDecs.SparkAdv_HighOctane
+PCM1.ERI.VarDecs.SparkAdv_LowOctane
+PCM1.ERI.VarDecs.SparkDwell
+PCM1.ERI.VarDecs.SparkEnabled
+PCM1.ERI.VarDecs.SparkEnergyMonitor
+PCM1.P3.TCS_SPark_RTD::-50 0
+PCM1.ERI.VarDecs.TDCCount
+PCM1.ERI.VarDecs.TDCCountThreshEnabled
+PCM1.ERI.VarDecs.Total_Temp_SpkOfst
